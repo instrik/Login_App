@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:login_app/registration_page.dart';
 import 'LogInDetails.dart';
-// trial comment 11
+// trial comment 2
 void main() {
   runApp(LogInMaterial());
 }
