@@ -6,7 +6,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:login_app/registration_page.dart';
 import 'LogInDetails.dart';
 
-// trial comment bb dgtyyvyv
+// trial comment bb dgtyyvyvyvhb
 
 void main() {
   runApp(LogInMaterial());
