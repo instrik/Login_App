@@ -7,7 +7,7 @@ import 'package:login_app/registration_page.dart';
 import 'LogInDetails.dart';
 
 // trial comment bb dgtyyvyvyvhb vuvuvhyhvu vivi
-
+uxuux
 void main() {
   runApp(LogInMaterial());
 }
